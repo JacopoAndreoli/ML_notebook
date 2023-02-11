@@ -1,2 +1,2 @@
 # ML_notebook
-Machine Learning .ypinb files coded in the course "Machine Learning" during the Master's degree in Controls Systems Engineering
+The .ypinb files gives an proof of convcepts on real data of topics seen during theoretical lessons  
